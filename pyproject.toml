@@ -1,6 +1,6 @@
 [project]
 name = "whittaker-trosna"
-version = "0.2.0"
+version = "0.2.1"
 description = "Whittaker smoother with recency-based mobility weights for time series"
 readme = "README.md"
 authors = [

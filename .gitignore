@@ -1,0 +1,5 @@
+.hypothesis/
+.pytest_cache/
+.ruff_cache/
+.venv/
+literature/
